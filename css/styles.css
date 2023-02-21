@@ -70,19 +70,3 @@ img{
     color: white;
 }
 
-/* Button 3 edit */
-.button3{
-    background-color: transparent;
-    position: relative;
-    left: 29.8%;
-    top: 380px;
-    font-size: 40px;
-    color: #B9F3FC;
-    border: strong;
-
-}
-
-.button3:hover{
-    background-color: #B5F1CC;
-    color: white;
-}
