@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+
+}
+
+h1{
+    position: relative;
+    margin-block-start: 0;
+    left: 41%;
+    top: 130px;
+    color: #301E67;
+    font-size: 3em;
+    font-family: "Square Peg", cursive;
+    font-style: italic;
+
+
+}
+
+.label{
+    position: relative;
+    margin-block-start: 0;
+    left: 45%;
+    top: 125px;
+    color: #301E67;
+    font-family: "Square Peg", cursive;
+    font-style: italic;
+}
+
+img{
+    width: 110%;
+    position: absolute;
+}
+
+
+/* Button 1 edit */
+.button1{
+    background-color: transparent;
+    position: relative;
+    left: 46.5%;
+    top: 180px;
+    font-size: 40px;
+    color: #B9F3FC;
+    border: strong;
+    onclick
+
+}
+
+.button1:hover{
+    background-color: #B5F1CC;
+    color: white;
+}
+
+/* Button 2 edit */
+.button2{
+    background-color: transparent;
+    position: relative;
+    left: 38.3%;
+    top: 280px;
+    font-size: 40px;
+    color: #B9F3FC;
+    border: strong;
+
+}
+
+.button2:hover{
+    background-color: #B5F1CC;
+    color: white;
+}
+
+/* Button 3 edit */
+.button3{
+    background-color: transparent;
+    position: relative;
+    left: 29.8%;
+    top: 380px;
+    font-size: 40px;
+    color: #B9F3FC;
+    border: strong;
+
+}
+
+.button3:hover{
+    background-color: #B5F1CC;
+    color: white;
+}
